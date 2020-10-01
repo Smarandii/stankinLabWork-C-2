@@ -1,0 +1,12 @@
+﻿  lab2.cpp
+D:\Code\C++ Projects\lab2\lab2\lab2\lab2.cpp(32,11): warning C4477: "scanf": в строке форматирования "%s" требуется аргумент типа "char *", но вариативный аргумент "1" имеет тип "int *"
+D:\Code\C++ Projects\lab2\lab2\lab2\lab2.cpp(66,9): warning C4101: i: неиспользованная локальная переменная
+D:\Code\C++ Projects\lab2\lab2\lab2\lab2.cpp(97,11): warning C4477: "scanf": в строке форматирования "%s" требуется аргумент типа "char *", но вариативный аргумент "1" имеет тип "int *"
+D:\Code\C++ Projects\lab2\lab2\lab2\lab2.cpp(136,9): warning C4101: i: неиспользованная локальная переменная
+D:\Code\C++ Projects\lab2\lab2\lab2\lab2.cpp(198,11): warning C4477: "scanf": в строке форматирования "%s" требуется аргумент типа "char *", но вариативный аргумент "1" имеет тип "int *"
+D:\Code\C++ Projects\lab2\lab2\lab2\lab2.cpp(249,9): warning C4101: i: неиспользованная локальная переменная
+D:\Code\C++ Projects\lab2\lab2\lab2\lab2.cpp(284,11): warning C4477: "scanf": в строке форматирования "%s" требуется аргумент типа "char *", но вариативный аргумент "1" имеет тип "int *"
+D:\Code\C++ Projects\lab2\lab2\lab2\lab2.cpp(410,11): warning C4477: "scanf": в строке форматирования "%s" требуется аргумент типа "char *", но вариативный аргумент "1" имеет тип "int *"
+D:\Code\C++ Projects\lab2\lab2\lab2\lab2.cpp(539,11): warning C4477: "scanf": в строке форматирования "%s" требуется аргумент типа "char *", но вариативный аргумент "1" имеет тип "int *"
+D:\Code\C++ Projects\lab2\lab2\lab2\lab2.cpp(546,5): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  lab2.vcxproj -> D:\Code\C++ Projects\lab2\lab2\Debug\lab2.exe

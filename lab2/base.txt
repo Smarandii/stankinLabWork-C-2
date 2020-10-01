@@ -1,0 +1,5 @@
+4
+test1 3 type_2 article_1 43
+test3 87 type_1 article_5 32
+test2 34 type_3 article_3 10
+test4 130 type_2 article_3 2345
